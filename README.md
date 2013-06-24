@@ -18,7 +18,7 @@
   <li><code>HTML5/CSS3</code>：超喜欢，目前自学中</li>
 </ul>
 
-<h3>技能</h3>
+<h3>其他技能</h3>
 <ul>
   <li>大二开始折腾过<code>linux</code></li>
   <li>写代码用notepad++,习惯了</li>
@@ -28,6 +28,13 @@
   <li>喜欢阅读关于前端，产品的书籍</li>
 </ul>
 
+<h3>项目经验</h3>
+<ul>
+  <li>说来惭愧啊，没什么好的大的项目经验，基本很零散的，只有下面个自我感觉还能拿出手的</li>
+  <li>点这里→ →：<a href="http://cloundbox.com/case/index.html">http://cloundbox.com/case/index.html</a></li>
+  <li>点这里→ →(基于wordpress开发，后悔啊，没保存代码，网页快照算不算？)：<a href="http://ikeepu.com/pengbeilin/site">森女家</a></li>
+  
+</ul>
 
 <h3>常去的地方</h3>
 <ul>
@@ -37,16 +44,12 @@
   <li><a href="http://v2ex.com">v2ex<</a></li>
 </ul>
 
-<h3>项目经验</h3>
+
+<h3>求职意向</h3>
 <ul>
-  <li>说来惭愧啊，没什么好的大的项目经验，基本很零散的，只有下面个自我感觉还能拿出手的</li>
-  <li>点这里→ →：<a href="http://cloundbox.com/case/index.html">http://cloundbox.com/case/index.html</a></li>
-  <li>点这里→ →(基于wordpress开发，后悔啊，没保存代码，网页快照算不算？)：<a href="http://ikeepu.com/pengbeilin/site">森女家</a></li>
-
-
+  <li>前端开发<code>html/css/javascript</code></li>
+  <li>能学到其他好玩的东西，如果允许的话</li>
 </ul>
-
-
 
 
 
