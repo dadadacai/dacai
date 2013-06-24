@@ -12,12 +12,21 @@
 <ul>
   <li><code>html</code>：一直在用,能解决大部分问题</li>
   <li><code>css</code>：必会的技能之一</li>
-  <li><code>javascript</code>：暂时一般般，要恶补呀</li>
+  <li><code>javascript/ajax</code>：暂时一般般，要恶补呀</li>
   <li><code>jquery</code>：熟悉掌握,能解决问题</li>
-
-
-
+  <li><code>PHP/MYSQL</code>：自学过，能看懂代码</li>
+  <li><code>HTML5/CSS3</code>：超喜欢，目前自学中</li>
 </ul>
+
+<h3>技能</h3>
+<ul>
+  <li>大二开始折腾过<code>linux</code></li>
+  <li>在学习正则</li>
+  <li>懂得一点http协议，学习中</li>
+  <li>阅读英语文档还算ok吧</li>
+  <li>喜欢阅读关于前端，产品的书籍</li>
+</ul>
+
 
 <h3>常去的地方</h3>
 <ul>
