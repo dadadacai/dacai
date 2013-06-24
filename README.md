@@ -10,10 +10,10 @@
 
 <h3>编程语言</h3>
 <ul>
-  <li><code color="red">html</code>：一直在用,能解决大部分问题</li>
+  <li><code>html</code>：一直在用,能解决大部分问题</li>
   <li><code>css</code>：必会的技能之一</li>
   <li><code>javascript</code>：暂时一般般，要恶补呀</li>
-  <li><code>jquery</code>：</li>
+  <li><code>jquery</code>：熟悉掌握,能解决问题</li>
 
 
 
