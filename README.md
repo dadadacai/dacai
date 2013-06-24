@@ -3,8 +3,7 @@
 <h3>基本情况</h3>
 <ul>
   <li>彭锦才，男</li>
-  <li>福建闽江学院</li>
-  <li>非计算机专业</li>
+  <li>福建闽江学院，市场营销，10级</li>
   <li>dadadacai@gmail.com</li>
 </ul>
 
