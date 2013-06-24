@@ -46,7 +46,7 @@
 
 <h3>求职意向</h3>
 <ul>
-  <li>前端开发<code>html/css/javascript</code></li>
+  <li>web前端开发工程师<code>html/css/javascript</code></li>
   <li>能学到其他好玩的东西，如果允许的话</li>
 </ul>
 
