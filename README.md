@@ -21,6 +21,7 @@
 <h3>技能</h3>
 <ul>
   <li>大二开始折腾过<code>linux</code></li>
+  <li>写代码用notepad++,习惯了</li>
   <li>在学习正则</li>
   <li>懂得一点http协议，学习中</li>
   <li>阅读英语文档还算ok吧</li>
@@ -35,4 +36,19 @@
   <li><a href="http://cloundbox.com/">blog</a></li>
   <li><a href="http://v2ex.com">v2ex<</a></li>
 </ul>
+
+<h3>项目经验</h3>
+<ul>
+  <li>点这里→ →：<a href="http://cloundbox.com/case/index.html">case</a></li>
+
+
+</ul>
+
+
+
+
+
+
+
+
 
