@@ -10,8 +10,8 @@
 
 <h3>常去的地方</h3>
 <ul>
-  <li>csdn:<a href="http://www.csdn.net/"></a></li>
-  <li>github:<a href="https://github.com/dadadacai"></a></li>
-  <li>blog:<a href="http://cloundbox.com/"></a></li>
-  <li>v2ex:<a href="http://v2ex.com"></a></li>
+  <li><a href="http://www.csdn.net/">csdn</a></li>
+  <li><a href="https://github.com/dadadacai">github</a></li>
+  <li><a href="http://cloundbox.com/">blog</a></li>
+  <li><a href="http://v2ex.com">v2ex<</a></li>
 </ul>
