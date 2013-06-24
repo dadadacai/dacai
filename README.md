@@ -39,7 +39,9 @@
 
 <h3>项目经验</h3>
 <ul>
-  <li>点这里→ →：<a href="http://cloundbox.com/case/index.html">case</a></li>
+  <li>说来惭愧啊，没什么好的大的项目经验，基本很零散的，只有下面个自我感觉还能拿出手的</li>
+  <li>点这里→ →：<a href="http://cloundbox.com/case/index.html">http://cloundbox.com/case/index.html</a></li>
+  <li>点这里→ →(基于wordpress开发，后悔啊，没保存代码，网页快照算不算？)：<a href="http://ikeepu.com/pengbeilin/site">森女家</a></li>
 
 
 </ul>
