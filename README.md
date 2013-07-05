@@ -28,10 +28,20 @@
 
 <h3>项目经验</h3>
 <ul>
-  <li>说来惭愧啊，没什么好的大的项目经验，基本很零散的，只有下面个自我感觉还能拿出手的</li>
-  <li>点这里→ →：<a href="http://cloundbox.com/case/index.html">http://cloundbox.com/case/index.html</a></li>
-  <li>点这里→ →(基于wordpress开发，后悔啊，没保存代码，网页快照算不算？)：<a href="http://ikeepu.com/pengbeilin/site">森女家</a></li>
+  <h4>花慢网</h4>
+  <li>项目时间： 2013年03月-2013年07月</li>
+  <li>项目简介： 花慢网（favewe.com）是一个优质阅读媒体，为读者提供有益于生活质量提升的每日精品阅读。主要栏目有：优美文章、早安晚安心语、唯美图片、手机壁纸、音乐聆听、电影台词。</li>
+  <li>开发职责:  网站基于wordpress开源程序开发，我主要负责前端html+css的开发。</li>
   
+  <h4>森女家</h4>
+  <li>项目时间： 2012年03月-2012年08月</li>
+  <li>项目简介： 森女家-一个专注森女的导购网站。</li>
+  <li>开发职责:  基于wordpress自己设计开发的网站。已失效，快照移步地址：http://ikeepu.com/pengbeilin/site</li>
+  
+  <h4>small demo</h4>
+  <li>项目时间： 2013年06月</li>
+  <li>项目简介： 花半天时间写得小网页。由于期末考，也就不怎么管了。日后完善完善。</li>
+  <li>开发职责： 地址：http://cloundbox.com/case/index.html</li>
 </ul>
 
 <h3>常去的地方</h3>
